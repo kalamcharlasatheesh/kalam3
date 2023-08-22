@@ -22,7 +22,7 @@ body {
   display: inline-block;
   height: 200px;
   width: 200px;
-  border: 10px solid black;
+  border: 10px solid yellow;
   border-radius: 20%;
 }
 
@@ -31,8 +31,8 @@ body {
   opacity: 0.8;
 }
 
-.red {
-  background-color: red;
+.pink {
+  background-color: pink;
 }
 
 .green {
@@ -43,8 +43,8 @@ body {
   background-color: blue;
 }
 
-.yellow {
-  background-color: yellow;
+.orange {
+  background-color: orange;
 }
 
 .pressed {
